@@ -1,0 +1,2 @@
+runpod==1.7.12
+sentry-sdk==2.46.0
