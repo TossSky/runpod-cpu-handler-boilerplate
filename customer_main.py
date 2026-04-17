@@ -10,7 +10,7 @@ def run(input_data):
 
     result = {
         "add": a + b,
-        "sub": b - a,
+        "sub": b + a,
         "mul": a * b,
         "div": a / b if b != 0 else "inf"
     }[operation]
